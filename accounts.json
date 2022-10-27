@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "M",
+    "emailAddress": "john.doe@mail.com",
+    "mobileNumber": "+2349099911973",
+    "nationality": "Nigerian"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Dober",
+    "gender": "F",
+    "emailAddress": "jane.dober@mail.com",
+    "mobileNumber": "+2349099914473",
+    "nationality": "Ghanian"
+  },
+  {
+    "firstName": "Perry",
+    "lastName": "Wise",
+    "gender": "M",
+    "emailAddress": "perrywise@mail.com",
+    "mobileNumber": "+2348099911973",
+    "nationality": "British"
+  }
+]
